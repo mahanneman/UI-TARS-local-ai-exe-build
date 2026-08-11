@@ -1,5 +1,5 @@
 {
-  "name": "ui-tars-desktop",
+  "name": "mahan-ui-tars-desktop",
   "version": "0.2.4",
   "private": true,
   "main": "./dist/main/main.js",
